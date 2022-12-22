@@ -1,7 +1,7 @@
 {
     "name": "Astronomer Astro CLI",
     "id": "astro-cli",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "documentationURL": "https://github.com/fhoda/codespaces-features/tree/main/src/astro-cli",
     "description": "Installs the Astro CLI",
     "options": {
