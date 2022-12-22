@@ -1,6 +1,6 @@
 {
     "cli": {
-        "image": "ubuntu:focal",
+        "image": "ubuntu:latest",
         "features": {
             "astro-cli": {}
         }
