@@ -1,0 +1,15 @@
+{
+    "name": "Astronomer Astro CLI",
+    "id": "astro-cli",
+    "version": "0.0.1",
+    "documentationURL": "https://github.com/fhoda/codespaces-features/tree/main/src/astro-cli",
+    "description": "Installs the Astro CLI",
+    "options": {
+        "version": {
+            "type": "string",
+            "proposals": ["latest"],
+            "default": "latest",
+            "description": "Select or enter a SAM CLI version number."
+        } 
+    }   
+}
