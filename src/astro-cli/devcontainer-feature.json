@@ -9,7 +9,7 @@
             "type": "string",
             "proposals": ["latest"],
             "default": "latest",
-            "description": "Select or enter a SAM CLI version number."
+            "description": "Select or enter a Astro CLI version number."
         } 
     }   
 }
