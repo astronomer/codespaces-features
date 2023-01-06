@@ -1,5 +1,5 @@
 {
-    "name": "Astronomer Astro CLI",
+    "name": "Astro CLI",
     "id": "astro-cli",
     "version": "1.0.0",
     "documentationURL": "https://github.com/astronomer/devcontainer-features/tree/main/src/astro-cli",
