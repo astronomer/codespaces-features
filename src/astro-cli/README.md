@@ -1,6 +1,6 @@
 
 
-# Astronomer Astro CLI (astro-cli)
+# Astro CLI (astro-cli)
 
 Installs the Astro CLI
 
