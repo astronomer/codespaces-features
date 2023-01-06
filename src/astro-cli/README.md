@@ -1,4 +1,5 @@
 
+
 # Astronomer Astro CLI (astro-cli)
 
 Installs the Astro CLI
@@ -7,7 +8,7 @@ Installs the Astro CLI
 
 ```json
 "features": {
-    "ghcr.io/fhoda/codespaces-features/astro-cli:1": {}
+    "ghcr.io/astronomer/codespaces-features/astro-cli:1": {}
 }
 ```
 
@@ -21,4 +22,4 @@ Installs the Astro CLI
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/fhoda/codespaces-features/blob/main/src/astro-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/astronomer/codespaces-features/blob/main/src/astro-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
